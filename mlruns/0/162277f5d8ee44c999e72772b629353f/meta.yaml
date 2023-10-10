@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pichapati.vijay/Documents/code/End-to-end-machine-learning-project-mlflow/mlruns/0/162277f5d8ee44c999e72772b629353f/artifacts
+end_time: 1696937310865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 162277f5d8ee44c999e72772b629353f
+run_name: sincere-panda-151
+run_uuid: 162277f5d8ee44c999e72772b629353f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696937243247
+status: 3
+tags: []
+user_id: pichapati.vijay
