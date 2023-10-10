@@ -68,7 +68,7 @@ open up you local host and port
 
 MLFLOW_TRACKING_URI=https://dagshub.com/vkreddy317/End-to-end-machine-learning-project-mlflow.mlflow \
 MLFLOW_TRACKING_USERNAME=vkreddy317 \
-MLFLOW_TRACKING_PASSWORD=aea730237e91c1097f0ab21d04495809812ad696 \
+MLFLOW_TRACKING_PASSWORD=6300457c1f1f5400294f306c2afd2ad910388a9c  \
 python script.py
 
 Run this to export as env variables:
@@ -79,9 +79,13 @@ set MLFLOW_TRACKING_URI=https://dagshub.com/vkreddy317/End-to-end-machine-learni
 
 set MLFLOW_TRACKING_USERNAME=vkreddy317 
 
-set MLFLOW_TRACKING_PASSWORD=aea730237e91c1097f0ab21d04495809812ad696
+set MLFLOW_TRACKING_PASSWORD=6300457c1f1f5400294f306c2afd2ad910388a9c
 
 ```
+MLFLOW_TRACKING_URI=https://dagshub.com/vkreddy317/End-to-end-machine-learning-project-mlflow.mlflow \
+MLFLOW_TRACKING_USERNAME=vkreddy317 \
+MLFLOW_TRACKING_PASSWORD=6300457c1f1f5400294f306c2afd2ad910388a9c  \
+python script.py
 
 
 
