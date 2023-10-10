@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pichapati.vijay/Documents/code/End-to-end-machine-learning-project-mlflow/mlruns/0/7a996d0642fe4634a60ed8e6613b685e/artifacts
+end_time: 1696937620511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a996d0642fe4634a60ed8e6613b685e
+run_name: incongruous-wren-530
+run_uuid: 7a996d0642fe4634a60ed8e6613b685e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696937616573
+status: 3
+tags: []
+user_id: pichapati.vijay
